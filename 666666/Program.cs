@@ -10,7 +10,12 @@ namespace _666666
     {
         static void Main(string[] args)
         {
+            /*0101
             Console.WriteLine();
+            */
+            /*0202
+             
+             */ 
         }
     }
 }
