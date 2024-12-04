@@ -96,7 +96,7 @@ namespace _666666
             string userInput = Console.ReadLine(); // 讀取用戶輸入
 
             // 使用 Copy 方法將用戶輸入的字串複製到另一個變數
-            string copiedInput = string.Copy(userInput);
+            string copiedInput = userInput;
 
             // 輸出複製的字串
             Console.WriteLine("你輸入的字串是: " + copiedInput);
